@@ -58,18 +58,20 @@
     "url": "https://itylogistics.com",
     "icon": "https://favicons.githubusercontent.com/itylogistics.com",
     "slug": "itylogistics",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 874,
-    "timeDay": 998,
-    "timeWeek": 899,
-    "timeMonth": 874,
-    "timeYear": 874,
-    "dailyMinutesDown": {}
+    "time": 2094,
+    "timeDay": 14364,
+    "timeWeek": 4253,
+    "timeMonth": 2094,
+    "timeYear": 2094,
+    "dailyMinutesDown": {
+      "2022-02-16": 1
+    }
   },
   {
     "name": "Qubitcodes",
