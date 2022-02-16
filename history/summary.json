@@ -58,19 +58,19 @@
     "url": "https://itylogistics.com",
     "icon": "https://favicons.githubusercontent.com/itylogistics.com",
     "slug": "itylogistics",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2094,
-    "timeDay": 14364,
-    "timeWeek": 4253,
-    "timeMonth": 2094,
-    "timeYear": 2094,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.40%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 2040,
+    "timeDay": 9854,
+    "timeWeek": 3873,
+    "timeMonth": 2040,
+    "timeYear": 2040,
     "dailyMinutesDown": {
-      "2022-02-16": 1
+      "2022-02-16": 9
     }
   },
   {
