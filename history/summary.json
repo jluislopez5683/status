@@ -76,7 +76,7 @@
     "url": "https://qubitcodes.com",
     "icon": "https://favicons.githubusercontent.com/qubitcodes.com",
     "slug": "qubitcodes",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -87,7 +87,9 @@
     "timeWeek": 1193,
     "timeMonth": 1145,
     "timeYear": 1145,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-18": 0
+    }
   },
   {
     "name": "Meditac",
