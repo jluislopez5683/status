@@ -40,28 +40,30 @@
     "url": "https://audi-tracking.com",
     "icon": "https://favicons.githubusercontent.com/audi-tracking.com",
     "slug": "audicomer-app",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.75%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 882,
     "timeDay": 952,
     "timeWeek": 820,
     "timeMonth": 869,
     "timeYear": 882,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-09": 4
+    }
   },
   {
     "name": "Itylogistics",
     "url": "https://itylogistics.com",
     "icon": "https://favicons.githubusercontent.com/itylogistics.com",
     "slug": "itylogistics",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1474,
@@ -69,17 +71,19 @@
     "timeWeek": 813,
     "timeMonth": 1759,
     "timeYear": 1474,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-09": 2
+    }
   },
   {
     "name": "Qubitcodes",
     "url": "https://qubitcodes.com",
     "icon": "https://favicons.githubusercontent.com/qubitcodes.com",
     "slug": "qubitcodes",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1105,
@@ -87,14 +91,16 @@
     "timeWeek": 1081,
     "timeMonth": 1089,
     "timeYear": 1105,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-09": 1
+    }
   },
   {
     "name": "Meditac",
     "url": "https://medi-tac.com/",
     "icon": "https://favicons.githubusercontent.com/medi-tac.com",
     "slug": "meditac",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -105,6 +111,8 @@
     "timeWeek": 1060,
     "timeMonth": 1131,
     "timeYear": 1230,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-09": 0
+    }
   }
 ]
