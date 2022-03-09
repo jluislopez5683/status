@@ -40,19 +40,19 @@
     "url": "https://audi-tracking.com",
     "icon": "https://favicons.githubusercontent.com/audi-tracking.com",
     "slug": "audicomer-app",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.75%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 882,
-    "timeDay": 952,
-    "timeWeek": 820,
-    "timeMonth": 869,
-    "timeYear": 882,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.41%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 884,
+    "timeDay": 947,
+    "timeWeek": 835,
+    "timeMonth": 871,
+    "timeYear": 884,
     "dailyMinutesDown": {
-      "2022-03-09": 4
+      "2022-03-09": 9
     }
   },
   {
@@ -61,18 +61,18 @@
     "icon": "https://favicons.githubusercontent.com/itylogistics.com",
     "slug": "itylogistics",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.98%",
+    "uptimeDay": "99.43%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 1474,
     "timeDay": 941,
     "timeWeek": 813,
     "timeMonth": 1759,
     "timeYear": 1474,
     "dailyMinutesDown": {
-      "2022-03-09": 2
+      "2022-03-09": 8
     }
   },
   {
@@ -80,19 +80,19 @@
     "url": "https://qubitcodes.com",
     "icon": "https://favicons.githubusercontent.com/qubitcodes.com",
     "slug": "qubitcodes",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1105,
-    "timeDay": 1210,
-    "timeWeek": 1081,
-    "timeMonth": 1089,
-    "timeYear": 1105,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 1108,
+    "timeDay": 1239,
+    "timeWeek": 1104,
+    "timeMonth": 1095,
+    "timeYear": 1108,
     "dailyMinutesDown": {
-      "2022-03-09": 1
+      "2022-03-09": 7
     }
   },
   {
@@ -100,19 +100,19 @@
     "url": "https://medi-tac.com/",
     "icon": "https://favicons.githubusercontent.com/medi-tac.com",
     "slug": "meditac",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1230,
-    "timeDay": 1158,
-    "timeWeek": 1060,
-    "timeMonth": 1131,
-    "timeYear": 1230,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.58%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 1504,
+    "timeDay": 7100,
+    "timeWeek": 2557,
+    "timeMonth": 1542,
+    "timeYear": 1504,
     "dailyMinutesDown": {
-      "2022-03-09": 0
+      "2022-03-09": 6
     }
   }
 ]
