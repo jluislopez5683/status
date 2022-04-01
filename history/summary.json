@@ -40,9 +40,9 @@
     "url": "https://audi-tracking.com",
     "icon": "https://favicons.githubusercontent.com/audi-tracking.com",
     "slug": "audicomer-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +51,9 @@
     "timeWeek": 967,
     "timeMonth": 936,
     "timeYear": 914,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-01": 0
+    }
   },
   {
     "name": "Itylogistics",
@@ -96,17 +98,19 @@
     "url": "https://medi-tac.com/",
     "icon": "https://favicons.githubusercontent.com/medi-tac.com",
     "slug": "meditac",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1662,
-    "timeDay": 807,
-    "timeWeek": 1097,
-    "timeMonth": 2086,
-    "timeYear": 1662,
-    "dailyMinutesDown": {}
+    "time": 1689,
+    "timeDay": 2140,
+    "timeWeek": 1394,
+    "timeMonth": 2128,
+    "timeYear": 1689,
+    "dailyMinutesDown": {
+      "2022-04-01": 0
+    }
   }
 ]
