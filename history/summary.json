@@ -40,19 +40,19 @@
     "url": "https://audi-tracking.com",
     "icon": "https://favicons.githubusercontent.com/audi-tracking.com",
     "slug": "audicomer-app",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 914,
-    "timeDay": 656,
-    "timeWeek": 967,
-    "timeMonth": 936,
-    "timeYear": 914,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.02%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
+    "time": 984,
+    "timeDay": 3135,
+    "timeWeek": 1548,
+    "timeMonth": 1078,
+    "timeYear": 984,
     "dailyMinutesDown": {
-      "2022-04-01": 0
+      "2022-04-01": 14
     }
   },
   {
@@ -98,19 +98,19 @@
     "url": "https://medi-tac.com/",
     "icon": "https://favicons.githubusercontent.com/medi-tac.com",
     "slug": "meditac",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1689,
-    "timeDay": 2140,
-    "timeWeek": 1394,
-    "timeMonth": 2128,
-    "timeYear": 1689,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.03%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
+    "time": 1683,
+    "timeDay": 1835,
+    "timeWeek": 1375,
+    "timeMonth": 2101,
+    "timeYear": 1683,
     "dailyMinutesDown": {
-      "2022-04-01": 0
+      "2022-04-01": 14
     }
   }
 ]
