@@ -96,19 +96,20 @@
     "url": "https://medi-tac.com/",
     "icon": "https://favicons.githubusercontent.com/medi-tac.com",
     "slug": "meditac",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1547,
-    "timeDay": 4101,
-    "timeWeek": 1548,
-    "timeMonth": 1265,
-    "timeYear": 1547,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "96.93%",
+    "uptimeWeek": "99.56%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.96%",
+    "time": 1697,
+    "timeDay": 10057,
+    "timeWeek": 3357,
+    "timeMonth": 1698,
+    "timeYear": 1697,
     "dailyMinutesDown": {
-      "2022-04-27": 0
+      "2022-04-28": 37,
+      "2022-04-27": 7
     }
   }
 ]
