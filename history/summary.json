@@ -78,19 +78,19 @@
     "url": "https://qubitcodes.com",
     "icon": "https://favicons.githubusercontent.com/qubitcodes.com",
     "slug": "qubitcodes",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.16%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 1082,
-    "timeDay": 1184,
-    "timeWeek": 1034,
+    "timeDay": 1127,
+    "timeWeek": 1038,
     "timeMonth": 1072,
     "timeYear": 1082,
     "dailyMinutesDown": {
-      "2022-05-05": 0
+      "2022-05-05": 12
     }
   },
   {
