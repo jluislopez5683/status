@@ -12,10 +12,7 @@ sites:
     url: https://audi-tracking.com
   - name: Itylogistics
     url: https://itylogistics.com
-  #- name: Qubitcodes
-  #  url: https://qubitcodes.com
-  # - name: Meditac
-  #  url: https://medi-tac.com/
+ 
    - name: Letzishop
     url: https://letzishop.com
 assignees:
