@@ -12,9 +12,7 @@ sites:
     url: https://audi-tracking.com
   - name: Itylogistics
     url: https://itylogistics.com
- 
-   - name: Letzishop
-    url: https://letzishop.com
+
 assignees:
   - jluislopez5683
   
