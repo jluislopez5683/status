@@ -4,18 +4,20 @@
     "url": "https://lopezcode.com",
     "icon": "https://favicons.githubusercontent.com/lopezcode.com",
     "slug": "lopezcode",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 267,
-    "timeDay": 347,
-    "timeWeek": 283,
-    "timeMonth": 257,
-    "timeYear": 267,
-    "dailyMinutesDown": {}
+    "time": 268,
+    "timeDay": 319,
+    "timeWeek": 309,
+    "timeMonth": 256,
+    "timeYear": 268,
+    "dailyMinutesDown": {
+      "2022-06-13": 0
+    }
   },
   {
     "name": "Audicomer",
@@ -28,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 5126,
-    "timeDay": 5798,
-    "timeWeek": 5459,
-    "timeMonth": 5498,
-    "timeYear": 5126,
+    "time": 5132,
+    "timeDay": 5875,
+    "timeWeek": 5557,
+    "timeMonth": 5493,
+    "timeYear": 5132,
     "dailyMinutesDown": {}
   },
   {
@@ -41,16 +43,16 @@
     "icon": "https://favicons.githubusercontent.com/audi-tracking.com",
     "slug": "audicomer-app",
     "status": "up",
-    "uptime": "99.76%",
+    "uptime": "99.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.76%",
-    "time": 956,
-    "timeDay": 924,
-    "timeWeek": 895,
-    "timeMonth": 853,
-    "timeYear": 956,
+    "uptimeYear": "99.77%",
+    "time": 957,
+    "timeDay": 1047,
+    "timeWeek": 953,
+    "timeMonth": 859,
+    "timeYear": 957,
     "dailyMinutesDown": {
       "2022-05-12": 445
     }
@@ -67,9 +69,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1062,
-    "timeDay": 905,
-    "timeWeek": 861,
-    "timeMonth": 849,
+    "timeDay": 961,
+    "timeWeek": 906,
+    "timeMonth": 854,
     "timeYear": 1062,
     "dailyMinutesDown": {
       "2022-03-09": 34
