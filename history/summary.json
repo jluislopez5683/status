@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/lopezcode.com",
     "slug": "lopezcode",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 266,
-    "timeDay": 224,
-    "timeWeek": 274,
-    "timeMonth": 250,
-    "timeYear": 266,
-    "dailyMinutesDown": {
-      "2022-06-14": 10
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 265,
+    "timeDay": 136,
+    "timeWeek": 275,
+    "timeMonth": 246,
+    "timeYear": 265,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Audicomer",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 5132,
-    "timeDay": 5875,
-    "timeWeek": 5557,
-    "timeMonth": 5493,
-    "timeYear": 5132,
+    "time": 5124,
+    "timeDay": 4064,
+    "timeWeek": 5423,
+    "timeMonth": 5440,
+    "timeYear": 5124,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.77%",
-    "time": 957,
-    "timeDay": 1047,
-    "timeWeek": 953,
-    "timeMonth": 859,
-    "timeYear": 957,
+    "time": 954,
+    "timeDay": 604,
+    "timeWeek": 930,
+    "timeMonth": 849,
+    "timeYear": 954,
     "dailyMinutesDown": {
       "2022-05-12": 445
     }
@@ -68,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1062,
-    "timeDay": 961,
-    "timeWeek": 906,
-    "timeMonth": 854,
-    "timeYear": 1062,
+    "time": 1059,
+    "timeDay": 746,
+    "timeWeek": 921,
+    "timeMonth": 850,
+    "timeYear": 1059,
     "dailyMinutesDown": {
       "2022-03-09": 34
     }
