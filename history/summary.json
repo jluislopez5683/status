@@ -4,9 +4,9 @@
     "url": "https://lopezcode.com",
     "icon": "https://favicons.githubusercontent.com/lopezcode.com",
     "slug": "lopezcode",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 235,
     "timeMonth": 256,
     "timeYear": 266,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-21": 0
+    }
   },
   {
     "name": "Audicomer",
