@@ -64,9 +64,9 @@
     "slug": "itylogistics",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1047,
     "timeDay": 829,
@@ -74,7 +74,6 @@
     "timeMonth": 854,
     "timeYear": 1047,
     "dailyMinutesDown": {
-      "2022-06-22": 8,
       "2022-03-09": 34
     }
   }
