@@ -25,9 +25,9 @@
     "url": "https://audicomer.com.ec",
     "icon": "https://favicons.githubusercontent.com/audicomer.com.ec",
     "slug": "audicomer",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -36,7 +36,9 @@
     "timeWeek": 5017,
     "timeMonth": 4787,
     "timeYear": 5011,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-02": 0
+    }
   },
   {
     "name": "Audicomer APP",
@@ -77,7 +79,7 @@
     "timeMonth": 670,
     "timeYear": 934,
     "dailyMinutesDown": {
-      "2022-09-02": 139,
+      "2022-09-02": 163,
       "2022-09-01": 1440,
       "2022-08-31": 1440,
       "2022-08-30": 1440,
