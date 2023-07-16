@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 291,
-    "timeDay": 300,
-    "timeWeek": 249,
-    "timeMonth": 235,
-    "timeYear": 242,
+    "timeDay": 139,
+    "timeWeek": 236,
+    "timeMonth": 231,
+    "timeYear": 241,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.91%",
-    "time": 3892,
-    "timeDay": 1860,
-    "timeWeek": 1426,
-    "timeMonth": 1428,
-    "timeYear": 3471,
+    "time": 3885,
+    "timeDay": 1376,
+    "timeWeek": 1417,
+    "timeMonth": 1436,
+    "timeYear": 3462,
     "dailyMinutesDown": {
       "2023-06-29": 47,
       "2023-06-13": 21,
@@ -56,11 +56,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 462,
-    "timeDay": 276,
-    "timeWeek": 218,
-    "timeMonth": 202,
-    "timeYear": 237,
+    "time": 461,
+    "timeDay": 133,
+    "timeWeek": 207,
+    "timeMonth": 200,
+    "timeYear": 234,
     "dailyMinutesDown": {
       "2022-09-14": 298,
       "2022-07-25": 124
@@ -72,18 +72,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/itylogistics.com.ico",
     "slug": "itylogistics",
     "status": "down",
-    "uptime": "31.22%",
+    "uptime": "31.16%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "0.51%",
-    "time": 716,
+    "uptimeYear": "0.23%",
+    "time": 715,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 639,
+    "timeYear": 637,
     "dailyMinutesDown": {
-      "2023-07-15": 107,
+      "2023-07-16": 117,
+      "2023-07-15": 1440,
       "2023-07-14": 1440,
       "2023-07-13": 1440,
       "2023-07-12": 1440,
@@ -446,8 +447,7 @@
       "2022-07-20": 1440,
       "2022-07-19": 1440,
       "2022-07-18": 1440,
-      "2022-07-17": 1440,
-      "2022-07-16": 96
+      "2022-07-17": 1440
     }
   }
 ]
