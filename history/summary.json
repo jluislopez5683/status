@@ -14,7 +14,7 @@
     "timeDay": 136,
     "timeWeek": 159,
     "timeMonth": 221,
-    "timeYear": 342,
+    "timeYear": 335,
     "dailyMinutesDown": {
       "2023-12-20": 20,
       "2023-12-08": 18,
@@ -118,7 +118,7 @@
     "timeDay": 1073,
     "timeWeek": 1069,
     "timeMonth": 1189,
-    "timeYear": 1589,
+    "timeYear": 1588,
     "dailyMinutesDown": {
       "2024-02-02": 44,
       "2023-11-16": 19,
@@ -138,18 +138,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/audi-tracking.com.ico",
     "slug": "audicomer-app",
     "status": "down",
-    "uptime": "73.04%",
+    "uptime": "73.03%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "46.18%",
+    "uptimeYear": "46.16%",
     "time": 200,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 194,
+    "timeYear": 193,
     "dailyMinutesDown": {
-      "2024-02-02": 1393,
+      "2024-02-03": 65,
+      "2024-02-02": 1440,
       "2024-02-01": 1440,
       "2024-01-31": 1440,
       "2024-01-30": 1440,
@@ -357,13 +358,13 @@
     "uptime": "25.19%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "61.36%",
-    "uptimeYear": "5.27%",
+    "uptimeMonth": "61.62%",
+    "uptimeYear": "5.29%",
     "time": 713,
-    "timeDay": 1086,
-    "timeWeek": 1211,
+    "timeDay": 1402,
+    "timeWeek": 1220,
     "timeMonth": 1264,
-    "timeYear": 982,
+    "timeYear": 988,
     "dailyMinutesDown": {
       "2024-01-19": 25,
       "2024-01-14": 1013,
@@ -710,8 +711,7 @@
       "2023-02-07": 1440,
       "2023-02-06": 1440,
       "2023-02-05": 1440,
-      "2023-02-04": 1440,
-      "2023-02-03": 1440
+      "2023-02-04": 1440
     }
   }
 ]
