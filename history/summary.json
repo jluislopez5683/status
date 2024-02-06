@@ -142,14 +142,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "45.35%",
+    "uptimeYear": "45.34%",
     "time": 200,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 194,
     "dailyMinutesDown": {
-      "2024-02-05": 1430,
+      "2024-02-06": 66,
+      "2024-02-05": 1440,
       "2024-02-04": 1440,
       "2024-02-03": 1440,
       "2024-02-02": 1440,
@@ -357,18 +358,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/itylogistics.com.ico",
     "slug": "itylogistics",
     "status": "up",
-    "uptime": "25.49%",
-    "uptimeDay": "98.25%",
-    "uptimeWeek": "99.75%",
-    "uptimeMonth": "71.25%",
-    "uptimeYear": "6.10%",
+    "uptime": "25.50%",
+    "uptimeDay": "98.92%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "71.45%",
+    "uptimeYear": "6.11%",
     "time": 767,
     "timeDay": 1424,
     "timeWeek": 1284,
     "timeMonth": 1299,
     "timeYear": 1094,
     "dailyMinutesDown": {
-      "2024-02-05": 26,
+      "2024-02-05": 16,
       "2024-01-19": 25,
       "2024-01-14": 1013,
       "2024-01-13": 1440,
@@ -711,8 +712,7 @@
       "2023-02-10": 1440,
       "2023-02-09": 1440,
       "2023-02-08": 1440,
-      "2023-02-07": 1440,
-      "2023-02-06": 1440
+      "2023-02-07": 1440
     }
   }
 ]
