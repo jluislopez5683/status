@@ -7,7 +7,7 @@
     "status": "up",
     "uptime": "88.51%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "76.87%",
+    "uptimeWeek": "77.87%",
     "uptimeMonth": "70.44%",
     "uptimeYear": "75.51%",
     "time": 377,
@@ -148,10 +148,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/audi-tracking.com.ico",
     "slug": "audicomer-app",
     "status": "up",
-    "uptime": "70.60%",
-    "uptimeDay": "97.12%",
-    "uptimeWeek": "98.15%",
-    "uptimeMonth": "57.66%",
+    "uptime": "70.61%",
+    "uptimeDay": "97.96%",
+    "uptimeWeek": "98.27%",
+    "uptimeMonth": "57.92%",
     "uptimeYear": "37.44%",
     "time": 535,
     "timeDay": 1525,
@@ -159,7 +159,7 @@
     "timeMonth": 2619,
     "timeYear": 856,
     "dailyMinutesDown": {
-      "2024-03-21": 41,
+      "2024-03-21": 29,
       "2024-03-19": 145,
       "2024-03-08": 19,
       "2024-03-07": 18,
@@ -404,7 +404,7 @@
     "uptime": "26.48%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "15.64%",
+    "uptimeMonth": "15.41%",
     "uptimeYear": "11.08%",
     "time": 1053,
     "timeDay": 0,
@@ -412,7 +412,8 @@
     "timeMonth": 993,
     "timeYear": 1461,
     "dailyMinutesDown": {
-      "2024-03-21": 1406,
+      "2024-03-22": 66,
+      "2024-03-21": 1440,
       "2024-03-20": 1440,
       "2024-03-19": 1440,
       "2024-03-18": 1440,
@@ -744,8 +745,7 @@
       "2023-03-27": 1440,
       "2023-03-26": 1440,
       "2023-03-25": 1440,
-      "2023-03-24": 1440,
-      "2023-03-23": 1440
+      "2023-03-24": 1440
     }
   }
 ]
